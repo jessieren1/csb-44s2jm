@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jessieren1.github.io/csb-44s2jm/static/css/main.6dea0f05.chunk.css",
+    "main.js": "https://jessieren1.github.io/csb-44s2jm/static/js/main.10a1d91e.chunk.js",
+    "main.js.map": "https://jessieren1.github.io/csb-44s2jm/static/js/main.10a1d91e.chunk.js.map",
+    "runtime-main.js": "https://jessieren1.github.io/csb-44s2jm/static/js/runtime-main.b24e53b2.js",
+    "runtime-main.js.map": "https://jessieren1.github.io/csb-44s2jm/static/js/runtime-main.b24e53b2.js.map",
+    "static/js/2.13af3529.chunk.js": "https://jessieren1.github.io/csb-44s2jm/static/js/2.13af3529.chunk.js",
+    "static/js/2.13af3529.chunk.js.map": "https://jessieren1.github.io/csb-44s2jm/static/js/2.13af3529.chunk.js.map",
+    "index.html": "https://jessieren1.github.io/csb-44s2jm/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "https://jessieren1.github.io/csb-44s2jm/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.13af3529.chunk.js.LICENSE.txt": "https://jessieren1.github.io/csb-44s2jm/static/js/2.13af3529.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b24e53b2.js",
+    "static/js/2.13af3529.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.10a1d91e.chunk.js"
+  ]
+}
